@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/tvo2801/github-codespaces-/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/tvo2801/github-codespaces-/actions/workflows/testing-ci.yml)
+
 # github-codespaces-
 This is for a demo
 
